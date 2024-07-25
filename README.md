@@ -16,4 +16,4 @@
   7. Shell sort
 
 <h2>Autor</h2>
-<p><a href="https://github.com/AbelErasmo/">**Owner:** Erasmo Abel</a></p>
+<p><a href="https://github.com/AbelErasmo/"><b>Owner:</b> Erasmo Abel</a></p>
